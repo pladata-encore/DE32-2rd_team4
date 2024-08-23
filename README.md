@@ -3,15 +3,15 @@
 <Need add Picture>
 
 ## Introduce
-- <Need add Introduce text>
+<Need add Introduce text>
 
 ## Installation
 ### For Users
-- <Need add how to install for user>
+<Need add how to install for user>
 
 ### For Dev
-- <Need add how to install for devs>
-- <Need add how to set virtual-env for devs>
+<Need add how to install for devs>
+<Need add how to set virtual-env for devs>
 
 ## Usage
 
