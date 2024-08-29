@@ -19,7 +19,7 @@
 사용자 분들은 본 레포지토리를 사용하기 위해 몇가지 준비가 필요합니다.
 먼저, 본 레포지토리를 다운로드 해주십시오.
 ```
-git clone https://github.com/DE32-2nd-team4/Business-Chatting-System.git
+$ git clone https://github.com/DE32-2nd-team4/Business-Chatting-System.git
 ```
 
 레포지토리를 설치 한 다음 몇 가지 초기 설정과 설치가 필요합니다.
